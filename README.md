@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on IVSP<br>I'm currently learning autonomous driving
+I'm currently working on IVSP lab in kookmin university <br>I'm currently learning autonomous driving
 
 
 ## 🌐 Socials:
